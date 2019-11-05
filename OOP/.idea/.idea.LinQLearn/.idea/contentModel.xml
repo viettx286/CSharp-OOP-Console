@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_LinQLearn.-2008949947.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="Director.cs" t="Include" />
+        <e p="ExtensionHelpers.cs" t="Include" />
+        <e p="Managers.cs" t="Include" />
+        <e p="People.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Staffs.cs" t="Include" />
+        <e p="WriteText.txt" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="LinQLearn.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.deps.json
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.json
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.runtimeconfig.dev.json
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.dll
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/bin/Debug/netcoreapp2.2/ConsoleApp1.pdb
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csprojAssemblyReference.cache
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.csproj.CoreCompileInputs.cache
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfoInputs.cache
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.AssemblyInfo.cs
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.dll
+/media/dev/Data/ExerciseOOP/LinQLearn/ConsoleApp1/obj/Debug/netcoreapp2.2/ConsoleApp1.pdb

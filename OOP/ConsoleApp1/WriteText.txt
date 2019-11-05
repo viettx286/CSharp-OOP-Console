@@ -1,0 +1,12 @@
+Name: xuan viet 	Role: Staff 	Payroll: $00.00 
+
+Name: thai binh 	Role: Staff 	Payroll: $00.00 
+
+Name: quang minh 	Role: Manager 	Payroll: $00.00 
+
+Name: cao hoang 	Role: Manager 	Payroll: $00.00 
+
+Name: tran hung 	Role: Diretor 	Payroll: $00.00 
+
+Name: thu thuy 	Role: Diretor 	Payroll: $00.00 
+
